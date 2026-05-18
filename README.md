@@ -37,6 +37,11 @@ Generates downloadable incident reports via ReportLab.
 🗄️ **Alert Storage**
 Saves all threat results to a local SQLite database.
 
+🚀 Live Demo
+https://ai-cyber-security-platform-frbgh5bxcoestryp3fygke.streamlit.app/
+
+http://localhost:8501/
+
 🧰 Tech Stack
 
 Frontend — Streamlit (cyberpunk CSS theme)
